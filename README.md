@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">A Passionate React Js Developer,,,</p>
+<p align="center">A Passionate React Js Developer...</p>
 
 ###
 
